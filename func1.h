@@ -1,6 +1,10 @@
-#pragma once
+#include <iostream>
+#include <cmath>
+#include <iomanip>
 
-extern double x, result;
 namespace Myasnikova {
-	void f();
+  void f();
+
+  extern double x;
+  extern double result;
 }
