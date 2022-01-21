@@ -1,4 +1,3 @@
-#include <iostream>
 #include "func1.h"
 
 double x = 10;
