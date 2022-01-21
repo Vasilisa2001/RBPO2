@@ -1,5 +1,5 @@
 #include <iostream>
-#include "func.h"
+#include "func1.h"
 
 double x = 10;
 double result = 0;
